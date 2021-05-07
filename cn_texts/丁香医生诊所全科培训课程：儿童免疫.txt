@@ -1,0 +1,4 @@
+jQuery(document).ready(function(){
+    		jQuery("#a").srcollChange({drt:'left',auto:11});
+    	}); 上一张 下一张 点击下方 信源地址 可下载英文原版 PPT。 查看信源地址 编辑：
+                            李娜

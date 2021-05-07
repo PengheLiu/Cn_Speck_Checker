@@ -69,4 +69,4 @@ print(len(list(CNWORDS.items())[0][0]))
 
 cn_edits1(u"咳树")
 
-print(cn_correct(u"传然"))
+print(cn_correct(u"咳术"))

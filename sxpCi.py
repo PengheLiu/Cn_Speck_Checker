@@ -2278,7 +2278,7 @@ def main():
         ci_dict[json.dumps(ci)] += 1
     for k, v in ci_dict.items():
         if v > 1:
-            print json.loads(k)[0]
+            print(json.loads(k)[0])
 
 
 
